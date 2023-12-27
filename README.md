@@ -1,2 +1,1 @@
-
-narasimhamdtd.ccbp.tech
+The output of the code narasimhamdtd.ccbp.tech
